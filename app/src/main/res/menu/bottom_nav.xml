@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="" android:id="@+id/homeBtn" android:icon="@drawable/ic_home"/>
+    <item android:title="" android:id="@+id/drivers" android:icon="@drawable/ic_driver"/>
+    <item android:title="" android:id="@+id/donators" android:icon="@drawable/ic_donators"/>
+    <item android:title="" android:id="@+id/post" android:icon="@drawable/ic_post"/>
+    <item android:title="" android:id="@+id/more" android:icon="@drawable/ic_more"/>
+</menu>

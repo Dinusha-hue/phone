@@ -1,0 +1,36 @@
+<resources>
+    <string name="title1">Create Certificate</string>
+    <string name="image">image</string>
+    <string name="name">Enter name of person</string>
+    <string name="noOfDonation">Number of donation</string>
+    <string name="btn1">Create Certificate</string>
+    <string name="bNav">nav</string>
+    <string name="title2">Drivers</string>
+    <string name="col1">Name</string>
+    <string name="col2">Number of orders delivered</string>
+    <string name="col3">Deactivate</string>
+    <string name="raw1Name">Sunil</string>
+    <string name="raw1NoOD">5</string>
+    <string name="raw1dltBtn">Delete</string>
+    <string name="raw2Name">Nimal</string>
+    <string name="raw2NoOD">3</string>
+    <string name="raw2dltBtn">Delete</string>
+    <string name="raw3Name">Aruna</string>
+    <string name="raw3NoOD">6</string>
+    <string name="raw3dltBtn">Delete</string>
+    <string name="btn2">View new applications</string>
+    <string name="btn4">Update details</string>
+    <string name="btn5">Add &amp; Delete Orders</string>
+    <string name="title3">Home</string>
+    <string name="col4">Category</string>
+    <string name="col5">Count</string>
+    <string name="raw1Category">Number Of Drivers</string>
+    <string name="raw1Count">15</string>
+    <string name="raw2Category">Number Of Donetors</string>
+    <string name="raw2Count">12</string>
+    <string name="raw3Category">Number Of Delivered orders</string>
+    <string name="raw3Count">25</string>
+    <string name="raw4Category">Number Of New driver applications</string>
+    <string name="raw4Count">10</string>
+    <string name="btn3">Create certificate for donators</string>
+</resources>
